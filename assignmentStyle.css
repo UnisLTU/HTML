@@ -1,0 +1,37 @@
+h2 {
+  text-decoration: underline;
+}
+
+.firstPar {
+  font-weight: 500;
+}
+
+hr {
+  height: 0px;
+  border: none;
+  border-top: 2px solid black;
+}
+
+h3 {
+  font-size: 32px;
+}
+
+.textBlue {
+  color: blue;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
+
+.spanFontSize {
+  font-size: xx-large;
+}
+
+.secondPar {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
