@@ -1,0 +1,32 @@
+.screen {
+  background-color: brown;
+  width: 100vw;
+  height: 100vh;
+  color: #fff;
+  padding: 2rem;
+  font-family: fantasy;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+.btn-fixed {
+  color: #000;
+  padding: 2rem;
+  font-family: fantasy;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  margin: 30px;
+}
+
+.btn-absolute {
+  color: #000;
+  padding: 2rem;
+  font-family: fantasy;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  margin: 30px;
+}

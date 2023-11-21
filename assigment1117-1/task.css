@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+}
+header {
+  padding: 30px;
+  width: auto;
+  background-color: brown;
+}
+
+a {
+  margin-right: 30px;
+  text-align: center;
+  height: 80px;
+  font-size: x-large;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: azure;
+}
+
+main {
+  background-image: url("Screenshot 2023-11-17 192146.png");
+}
+
+.news {
+  padding: 30px;
+  color: brown;
+}
+
+.prices {
+  color: brown;
+  margin: 20px;
+}
+
+table {
+  margin: 20px;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+  width: 120px;
+  height: 40px;
+  margin: 0px;
+  border: 3px black solid;
+}
+
+li {
+    
+}

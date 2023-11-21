@@ -1,0 +1,32 @@
+.bg-img {
+  width: 100%;
+  background-size: contain;
+}
+
+#info {
+  position: relative;
+}
+
+.posAbs {
+  position: absolute;
+
+  bottom: 10rem;
+  left: 10rem;
+}
+
+h1 {
+  width: fit-content;
+  background-color: blue;
+  font-size: 5rem;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+p {
+  width: 50rem;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  background-color: black;
+}
