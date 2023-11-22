@@ -1,0 +1,44 @@
+.main {
+  background-color: #e2e1e1;
+  width: full;
+  font-family: "inter";
+  padding: 4rem;
+}
+
+.container {
+  position: relative;
+  width: 1000px;
+  height: 30%;
+  margin: auto;
+}
+
+.creator-container {
+  position: relative;
+}
+
+h1 {
+  text-align: center;
+  font-size: 16em;
+  color: black;
+}
+
+h2 {
+  position: absolute;
+  width: 100%;
+  top: 5%;
+
+  text-align: center;
+  font-size: 4em;
+  color: grey;
+}
+
+img {
+  position: absolute;
+  top: 75%;
+  right: 5%;
+}
+
+h3 {
+  text-align: center;
+  font-size: 2rem;
+}
