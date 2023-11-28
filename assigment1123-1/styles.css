@@ -1,0 +1,64 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  box-sizing: border-box;
+  position: relative;
+}
+
+.screen {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  font-size: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#first {
+  background-color: white;
+}
+
+#second {
+  background-color: rgb(122, 233, 58);
+}
+
+#third {
+  background-color: lightseagreen;
+}
+
+#fourth {
+  background-color: palevioletred;
+}
+
+#fifth {
+  background-color: grey;
+}
+
+.btns {
+  text-align: center;
+  position: sticky;
+  width: 100vw;
+  bottom: 10rem;
+}
+
+.btns a {
+  text-decoration: none;
+  padding: 1rem;
+  border: palevioletred 4px solid;
+  border-radius: 1rem;
+  background-color: rgb(255, 233, 237);
+}
+
+.btns .backBtn {
+  position: absolute;
+  right: 10%;
+  width: 30px;
+  height: 30px;
+  bottom: -20px;
+  border: grey 4px solid;
+  border-radius: 999rem;
+  background-color: transparent;
+}
